@@ -1,4 +1,4 @@
-### Important: Setting Up API Credentials
+### Before Running This Code: Setting Up API Credentials
 
 1. Locate the file named `apikey.env.template` in the root directory.
 2. Rename it to `apikey.env.txt`.
